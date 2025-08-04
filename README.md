@@ -20,16 +20,14 @@ Análises agrupadas por churn
 
 Visualizações para correlações e perfil do cliente
 
-Os dados utilizados foram tratados localmente e carregados a partir de arquivos .csv.
+Os dados utilizados foram tratados localmente e carregados a partir de arquivos .json
 
 ## 📈 Exemplos de Gráficos e Insights Obtidos
+Grafico de Pizza → mostrou a proporção de clientes que permaneceram e os que saíram.
 Gráfico de Barras por tipo de contrato → mostrou que clientes com contrato mensal evadem mais.
+Gráfico de histograma entre total gasto e churn → indicou que quem fica paga mais ao longo do tempo.
 
-Boxplot comparando TotalServicos por grupo de churn → revelou que clientes mais engajados tendem a ficar.
-
-Gráfico de Dispersão entre valor diário e churn → indicou associação entre custos altos e evasão.
-
-Heatmap de Correlações → evidenciou que tempo de contrato tem forte relação inversa com churn.
+extra de Correlações → evidenciou que tempo de contrato tem forte relação inversa com churn.
 
 Tabelas Agrupadas por churn → apontaram maior evasão entre idosos e clientes sem dependentes.
 
