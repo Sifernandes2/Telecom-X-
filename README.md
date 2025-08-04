@@ -24,7 +24,9 @@ Os dados utilizados foram tratados localmente e carregados a partir de arquivos 
 
 ## 📈 Exemplos de Gráficos e Insights Obtidos
 Grafico de Pizza → mostrou a proporção de clientes que permaneceram e os que saíram.
+
 Gráfico de Barras por tipo de contrato → mostrou que clientes com contrato mensal evadem mais.
+
 Gráfico de histograma entre total gasto e churn → indicou que quem fica paga mais ao longo do tempo.
 
 extra de Correlações → evidenciou que tempo de contrato tem forte relação inversa com churn.
